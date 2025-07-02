@@ -16,7 +16,7 @@ are. If the total typo weight totals 1.0 or greater, the password is rejected an
 - Your IDE of choice (If you want to customize weights or passwords)
 
 ### Downloading
-- Copy/Paste into an empty Python file or download the [*Password-Typo-Checker.py*](https://github.com/Yaykuby/Password-Typo-Checker/blob/main/src/Password-Typo-Checker.py) file under [*Password-Typo-Checker*](https://github.com/Yaykuby/Password-Typo-Checker/tree/main)/[*src*](https://github.com/Yaykuby/Password-Typo-Checker/tree/main/src)/ and place it within a directory of your choosing. Then, open that file in the IDE of your choice or navigate to that file using the command line.
+- Copy/Paste into an empty Python file or download the [*Password-Typo-Checker.py*](https://github.com/Yaykuby/Password-Typo-Checker/blob/main/src/Password-Typo-Checker.py) file under [*Password-Typo-Checker*](https://github.com/Yaykuby/Password-Typo-Checker/tree/main)/[*src*](https://github.com/Yaykuby/Password-Typo-Checker/tree/main/src)/ or from the [Releases](https://github.com/Yaykuby/Password-Typo-Checker/releases) tab and place it within a directory of your choosing. Then, open that file in the IDE of your choice or navigate to that file using the command line.
 - Alternatively, you could clone this repo with git.
 
 ### Running
